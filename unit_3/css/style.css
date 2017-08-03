@@ -1,0 +1,35 @@
+body	{
+  	text-align: center;
+	
+
+}
+header{
+background: url("https://img-s3.onedio.com/id-57ab4700fcfcc6d04e81986b/rev-0/raw/s-074b80dbbf6b7525601cafee8c60b027176249e6.jpg");
+	background-size: cover;
+height: 800px;
+
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+p {
+	font-family: "Dancing Script";
+	font-style: italic;
+	font-size: 24px;
+	text-align: center;
+}
+h1 {font-family: "Dancing Script";
+	font-style: italic;
+	color: #87E0F2; 
+	}
+
+ul{font-family: "Dancing Script";
+	font-style: italic;
+	font-size: 24px;
+}
+
+img{
+  max-width:100%;
+}
