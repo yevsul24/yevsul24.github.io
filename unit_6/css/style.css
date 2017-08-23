@@ -1,0 +1,89 @@
+body	{
+  	text-align: center;
+}
+
+header{
+background: url("https://img-s3.onedio.com/id-57ab4700fcfcc6d04e81986b/rev-0/raw/s-074b80dbbf6b7525601cafee8c60b027176249e6.jpg");
+	background-size: cover;
+height: 800px;
+
+}
+
+p {
+	font-family: "Dancing Script";
+	font-style: italic;
+	font-size: 24px;
+	text-align: center;
+}
+h1,h2,h3,h4 {font-family: "Dancing Script";
+	font-style: italic;
+	color: white; 
+	}
+
+h2,h3,h4 { 
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+img{
+  max-width:100%;
+  max-height: 100%;
+}
+
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: white;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div {
+    background-color: black;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.column {
+    float: left;
+    width: 29.5%;
+    height: 25%;
+    padding: 20px;
+    margin: 0;
+}
+
+#column1,#column2,#column3{
+    color: white;
+}
+
+footer {
+    background-color: #adf7f1;
+    border: 1px black solid;
+    padding: 20px;
+    clear: both;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
